@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body style="background:white; color:black; text-align:center;">
+
+<h1>💜 AI Sentiment Analyzer</h1>
+
+<form method="POST">
+    <textarea name="text" placeholder="Type something..." required></textarea>
+    <br><br>
+    <button type="submit">Analyze</button>
+</form>
+
+{% if result %}
+    <h2>Sentiment: {{ result }}</h2>
+    <h3>Confidence: {{ confidence }}%</h3>
+    <p>{{ response }}</p>
+{% endif %}
+
+</body>
+</html>
