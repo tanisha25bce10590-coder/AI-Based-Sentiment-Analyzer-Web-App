@@ -1,13 +1,13 @@
-💜 AI Sentiment Analyzer
+💓 AI Sentiment Analyzer
 
 An AI-powered web application that analyzes user emotions from textual input using Machine Learning and Natural Language Processing techniques.
 
 ✨ Key Highlights
-🧠 Machine Learning-based sentiment classification
-📊 Confidence score using probability distribution
-💬 Intelligent response generation
-🌐 Interactive web interface using Flask
-⚡ Lightweight and efficient implementation
+ Machine Learning-based sentiment classification
+ Confidence score using probability distribution
+ Intelligent response generation
+ Interactive web interface using Flask
+ Lightweight and efficient implementation
 
 🛠️ Tech Stack
 Backend: Python, Flask
@@ -54,10 +54,10 @@ AI-generated response
 📊 Example Output
 Emotion: Positive  
 Confidence: 78%  
-😊 You seem happy and positive! Keep shining!
-🚀 Future Enhancements
+ You seem happy and positive! Keep shining!
+ Future Enhancements
 Emotion classification (happy, sad, angry)
-Multi-user compatibility analysis 💜
+Multi-user compatibility analysis 
 Deployment on cloud (Heroku / AWS)
 UI enhancements and animations
 
